@@ -1,7 +1,5 @@
 # Hi, I'm Sumon
 
- DEVELOPER
-
 I build software from ideas, experiment with new technologies, and learn by building.
 
 ### What I Build
